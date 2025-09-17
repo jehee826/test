@@ -1,2 +1,1 @@
-git Test
-d
+1차 저장본 push까지
